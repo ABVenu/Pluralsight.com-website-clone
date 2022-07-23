@@ -12,12 +12,6 @@ function App() {
   return (
     <div className="App">
       <AllRoutes />
-      {/* <Navbar /> */}
-      {/* <Nav /> */}
-      {/* <Body /> */}
-      {/* <Javascript /> */}
-      {/* <Angular /> */}
-      {/* <Footer /> */}
     </div>
   );
 }
